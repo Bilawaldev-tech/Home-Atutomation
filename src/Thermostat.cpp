@@ -1,4 +1,4 @@
-#include "Thermostat.h"
+#include "../includes/Thermostat.h"
 #include <iostream>
 
 Thermostat::Thermostat() : temperature(20.0f) {}

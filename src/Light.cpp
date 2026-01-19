@@ -1,4 +1,4 @@
-#include "Light.h"
+#include "../includes/Light.h"
 #include <iostream>
 
 Light::Light() : isOn(false) {}

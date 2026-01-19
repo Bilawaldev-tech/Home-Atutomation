@@ -1,5 +1,5 @@
-#include "MotionSensor.h"
 #include <iostream>
+#include "../includes/MotionSensor.h"
 
 MotionSensor::MotionSensor() : motionDetected(false) {}
 

@@ -1,4 +1,4 @@
-#include "DoorLock.h"
+#include "../includes/DoorLock.h"
 #include <iostream>
 
 DoorLock::DoorLock() : isLocked(true) {}
