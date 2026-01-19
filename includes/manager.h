@@ -1,10 +1,10 @@
 #include <iostream>
 #include <unordered_map>
 #include <memory>
-#include "../Device/includes/Device.h"
-#include "../Device/includes/Light.h"
-#include "../Device/includes/DoorLock.h"
-#include "../Device/includes/Thermostat.h"
+#include "../includes/Device.h"
+#include "../includes/Light.h"
+#include "../includes/DoorLock.h"
+#include "../includes/Thermostat.h"
 
 class DeviceManager
 {
